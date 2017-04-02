@@ -26,7 +26,7 @@ const links = {
 let owData = [];
 
 var bot = new Discord.Client({
-    token: "YOUR_TOKEN_HERE",
+    token: "Mjk3NDU2ODE4OTQxMzI5NDA4.C8L4Qg.jP3iM6jPDc-wTg8ne7ErIYhdp94",
     autorun: true
 });
 
